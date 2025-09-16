@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LifeCycle</string>
+
+    <string name="memberMessage">
+        We are happy to see that you want to create a membership with us!
+        To do so, please fill in this form.
+    </string>
+    <string name="passReq">
+        Your password must contain 8 characters, capital letter, number.
+    </string>
+
+</resources>
